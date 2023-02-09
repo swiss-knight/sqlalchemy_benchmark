@@ -1,0 +1,4 @@
+geopandas==0.12.2
+psycopg2==2.9.5
+SQLAlchemy==2.0.1
+
